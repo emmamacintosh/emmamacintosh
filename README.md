@@ -1,22 +1,7 @@
+
+[![Watch the video](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a230560-ad6d-4e7a-ae92-2a65a2bd9434/d5slxxx-ecdc9842-d9ee-4b2d-be2c-3682a9c5f519.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhMjMwNTYwLWFkNmQtNGU3YS1hZTkyLTJhNjVhMmJkOTQzNFwvZDVzbHh4eC1lY2RjOTg0Mi1kOWVlLTRiMmQtYmUyYy0zNjgyYTljNWY1MTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Kz_opNlS267WbAcx9WEzni6L-DVn6hSsOdAePQqNxRs)](https://youtu.be/-2Oqq-lDeVA?si=tUCETQntff2fzgZ8)
+
+
 <div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; background-color: #003399; color: #FFFFFF; padding: 20px;">
-  <h1 style="font-size: 36px; text-shadow: 2px 2px #FF0000;">🎸 em mac 🎸</h1>
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="width: 70%; background-color: #6699CC; padding: 10px; border: 3px dashed #FFFFFF;">
-        <h2 style="color: #FF00FF;">📝</h2>
-        <p>nothing to see here o7 (yes it's my real name)</p>
-        <h2 style="color: #FF00FF;">🎵</h2>
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/-2Oqq-lDeVA?si=yvrXCUHVJp43WlCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </td>
-      <td style="width: 30%; background-color: #6699CC; padding: 10px; border: 3px dashed #FFFFFF; vertical-align: top;">
         <img src="https://lh3.googleusercontent.com/a/ACg8ocIrGoQBCOSgH5o-wbDDinSNzaTphyympI22jonV99KkNAHT3FUbzA=s576-c-no" width="200" alt="Profile Picture" style="border: 5px solid #FFFFFF;">
-        <p><strong>Name:</strong> emma macintosh</p>
-        <p><strong>Location:</strong> sthlm, swe</p>
-      </td>
-    </tr>
-  </table>
-  <h2 style="color: #FFFF00;">💾 </h2>
-  <p style="font-size: 24px;">
-    TypeScript | React | Node | Prisma | GraphQL | psql etc etc its all basically the same everywhere anyway
-  </p>
 </div>
