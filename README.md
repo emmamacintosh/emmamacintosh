@@ -8,8 +8,12 @@
 
 
 <div align="center">
-        <img src="https://lh3.googleusercontent.com/a/ACg8ocIrGoQBCOSgH5o-wbDDinSNzaTphyympI22jonV99KkNAHT3FUbzA=s576-c-no" width="30" alt="pfp">
+        <a href="https://youtu.be/DNSMMc3r5qk?si=0D2Z16-Mdb0VKpgS">
+                <img src="https://lh3.googleusercontent.com/a/ACg8ocIrGoQBCOSgH5o-wbDDinSNzaTphyympI22jonV99KkNAHT3FUbzA=s576-c-no" width="30" alt="pfp">
+        </a>
         <p style="fontSize: 11px" >myspace ✿ (reAl_) ☻ 2011</p>
 </div> 
 
 <h1 align="center"> ༺♡༻ </h1>
+
+
