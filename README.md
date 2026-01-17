@@ -7,12 +7,6 @@
 </div>
 
 
-<div align="center">
-        <a href="https://youtu.be/AB_9KefLwB8?si=XsRlhxvDRMitK2Vk">
-                <img src="https://lh3.googleusercontent.com/a/ACg8ocIrGoQBCOSgH5o-wbDDinSNzaTphyympI22jonV99KkNAHT3FUbzA=s576-c-no" width="30" alt="pfp">
-        </a>
-        <p style="fontSize: 11px" >myspace ✿ (reAl_) ☻ 2011</p>
-</div> 
 
 <h1 align="center"> ༺♡༻ </h1>
 
